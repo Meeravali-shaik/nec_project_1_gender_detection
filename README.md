@@ -71,5 +71,6 @@ name,gender
 jairam,male
 sneha,female
 ```
+<img width="1916" height="907" alt="1 gender_prediction" src="https://github.com/user-attachments/assets/650ecaa2-9556-42d6-8d9f-cc48fc2b4b78" />
 
 You can append more names to improve model quality.
